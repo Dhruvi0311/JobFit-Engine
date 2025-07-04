@@ -1,0 +1,33 @@
+Aarav Sharma  
+Email: aarav.sharma@example.com  
+Portfolio: aarav.dev | GitHub: github.com/aarav-sh
+
+Profile:  
+Versatile backend developer and machine learning enthusiast with hands-on experience in building scalable APIs, deploying ML pipelines, and collaborating across teams. Passionate about data-driven solutions and clean architecture.
+
+Skills:  
+- Python, Flask, Pandas, SQL  
+- Machine Learning (basic classification, clustering)  
+- Docker, Git, Linux  
+- Communication, Collaboration  
+- Familiarity with cloud platforms (Azure basics)  
+- Limited exposure to NLP and Deep Learning
+
+Projects:  
+- **APIBuilder**: Flask-based backend for real-time product analytics. Dockerized and deployed on Heroku.  
+- **SkillSurveyor**: Simple TF-IDF career alignment tool with radar chart visualizations.  
+- **MLPlayground**: Experiments with k-NN and Decision Trees using Scikit-learn.
+
+Education:  
+B.Sc. in Computer Science, Chandigarh Tech Institute, 2021
+
+Experience:  
+Backend Engineer @ BytePulse Solutions (2021–2024)  
+- Created modular REST APIs using Flask and SQL  
+- Collaborated with data science team to prototype a churn prediction model  
+- Participated in cross-functional Agile sprints
+
+Certifications:  
+- Python for Everybody (Coursera)  
+- Introduction to Machine Learning (DataCamp)  
+- Azure Fundamentals (Microsoft Learn)
